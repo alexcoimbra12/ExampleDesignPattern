@@ -1,0 +1,4 @@
+Recibo: 
+Empresa: XPTO
+Cliente: Alex
+Valor: 50.0
